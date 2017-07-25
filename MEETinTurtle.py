@@ -44,7 +44,7 @@ turtle.goto(-75,-100)
 turtle.pendown()
 turtle.goto(0,-100)
 
-#######
+#######E(second
 
 turtle.penup()
 turtle.goto(25,-100)
@@ -57,8 +57,26 @@ turtle.penup()
 turtle.goto(25,0)
 turtle.pendown()
 turtle.goto(100,0)
+turtle.penup()
 
+turtle.goto(25,-100)
+turtle.pendown()
+turtle.goto(100,-100)
+turtle.penup()
 
+#######T
+
+turtle.goto(100,100)
+turtle.goto(125,100)
+turtle.pendown()
+turtle.goto(225,100)
+turtle.penup()
+turtle.goto(175,100)
+turtle.pendown()
+turtle.goto(175,-100)
+#####THERE YOU GO######
+######THANK YOU########
+#######################
 
 
 
